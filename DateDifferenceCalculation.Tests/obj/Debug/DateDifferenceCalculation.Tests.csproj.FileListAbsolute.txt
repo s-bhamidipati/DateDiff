@@ -1,0 +1,81 @@
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.Tests.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.Tests.pdb
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.pdb
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.dll.config
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.csprojAssemblyReference.cache
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.csproj.CopyComplete
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.pdb
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.Tests.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.Tests.pdb
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\System.Web.Razor.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.pdb
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.dll.config
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\System.Web.Razor.xml
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.csprojAssemblyReference.cache
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.csproj.CoreCompileInputs.cache
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.csproj.CopyComplete
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.pdb
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.Tests.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.Tests.pdb
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.pdb
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\DateDifferenceCalculation.dll.config
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.csprojAssemblyReference.cache
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.csproj.CopyComplete
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation.Tests\obj\Debug\DateDifferenceCalculation.Tests.pdb

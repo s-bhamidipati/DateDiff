@@ -1,0 +1,42 @@
+﻿@model DateDifferenceCalculation.Models.UserRequest
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Date Difference Calcualtion</h2>
+<div class="ibox-content">
+    <div class="row">
+        <div class="col-md-12">
+            <h3 class="m-t-none m-b text-navy"></h3>
+            @using (Html.BeginForm("DateDiffCalculation", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="col-md-4">
+                            @Html.LabelFor(m => m.StartDate, htmlAttributes: new { @class = "control-label" })
+                        </div>
+                        <div class="col-md-8">
+                            @Html.TextBoxFor(m => m.StartDate, new { type = "date", @class = "form-control", @required = "required", @title = "Start Date", @maxlength = "50", @id = "txtStartDate" })
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="col-md-4">
+                            @Html.LabelFor(m => m.EndDate, htmlAttributes: new { @class = "control-label" })
+                        </div>
+                        <div class="col-md-8">
+                            @Html.TextBoxFor(m => m.EndDate, new { type = "date", @class = "form-control", @required = "required", @title = "End Date", @maxlength = "50", @id = "txtEndDate" })
+                        </div>
+                    </div>
+                </div><br />
+                <div class="row">
+                    <div class="col-md-12">
+                        <input class="btn btn-sm btn-primary pull-Center m-t-n-xs" type="submit" value="Calculate">
+                    </div>
+                </div>
+
+            }
+            <br />
+        </div>
+    </div>
+</div>
+

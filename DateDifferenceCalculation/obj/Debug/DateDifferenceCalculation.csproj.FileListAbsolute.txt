@@ -1,0 +1,207 @@
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\DateDifferenceCalculation.dll.config
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\DateDifferenceCalculation.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\DateDifferenceCalculation.pdb
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\csc.exe
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\csc.exe.config
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\csc.rsp
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\csi.exe
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\csi.exe.config
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\csi.rsp
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.AppContext.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Console.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.IO.Compression.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Security.Claims.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.ValueTuple.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\vbc.exe
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\vbc.exe.config
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\vbc.rsp
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\VBCSCompiler.exe
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\System.Web.Helpers.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\System.Web.Mvc.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\System.Web.Razor.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\System.Web.Webpages.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\System.Web.Webpages.Razor.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\System.Web.Razor.xml
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\System.Web.Webpages.xml
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\System.Web.Webpages.Razor.xml
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\System.Web.Helpers.xml
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\System.Web.Mvc.xml
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.csprojAssemblyReference.cache
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.csproj.CoreCompileInputs.cache
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.csproj.CopyComplete
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.dll
+C:\Users\sbhamidipati2\source\repos\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.pdb
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.pdb
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\DateDifferenceCalculation.dll.config
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\DateDifferenceCalculation.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\DateDifferenceCalculation.pdb
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\csc.exe
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\csc.exe.config
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\csc.rsp
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\csi.exe
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\csi.exe.config
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\csi.rsp
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.AppContext.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Collections.Immutable.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Console.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.IO.Compression.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.IO.FileSystem.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.IO.Pipes.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Security.AccessControl.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Security.Claims.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.ValueTuple.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Xml.XPath.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\vbc.exe
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\vbc.exe.config
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\vbc.rsp
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\VBCSCompiler.exe
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\roslyn\VBCSCompiler.exe.config
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\Microsoft.Web.Infrastructure.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\System.Web.Helpers.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\System.Web.Mvc.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\System.Web.Razor.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\System.Web.Webpages.Deployment.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\System.Web.Webpages.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\System.Web.Webpages.Razor.dll
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\System.Web.Razor.xml
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\System.Web.Webpages.xml
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\System.Web.Webpages.Deployment.xml
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\System.Web.Webpages.Razor.xml
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\System.Web.Helpers.xml
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\System.Web.Mvc.xml
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.csprojAssemblyReference.cache
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.csproj.CoreCompileInputs.cache
+C:\Srinivas Onedrive\DateDiffApp\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.csproj.CopyComplete
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\DateDifferenceCalculation.dll.config
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\DateDifferenceCalculation.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\DateDifferenceCalculation.pdb
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\csc.exe
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\csc.exe.config
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\csc.rsp
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\csi.exe
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\csi.exe.config
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\csi.rsp
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.AppContext.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Console.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.IO.Compression.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Security.Claims.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.ValueTuple.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\vbc.exe
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\vbc.exe.config
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\vbc.rsp
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\VBCSCompiler.exe
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\System.Web.Helpers.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\System.Web.Mvc.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\System.Web.Razor.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\System.Web.Webpages.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\System.Web.Webpages.Razor.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\System.Web.Razor.xml
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\System.Web.Webpages.xml
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\System.Web.Webpages.Razor.xml
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\System.Web.Helpers.xml
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\System.Web.Mvc.xml
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.csprojAssemblyReference.cache
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.csproj.CoreCompileInputs.cache
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.csproj.CopyComplete
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.dll
+C:\Users\sbhamidipati2\DateDiff\DateDifferenceCalculation\obj\Debug\DateDifferenceCalculation.pdb
